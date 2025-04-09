@@ -22,7 +22,7 @@
         <input type="password" name="password_confirmation" required><br>
 
         <button type="submit">Register</button>
-
+        <button type="submit">Register</button>
     </form>
 </body>
 </html>
